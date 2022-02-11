@@ -1,3 +1,4 @@
+//program to illustrate selection sorting in an array(Kaustub Dutt Pandey)
 #include<iostream>
 using namespace std;
 void swap(int *a,int *b)
