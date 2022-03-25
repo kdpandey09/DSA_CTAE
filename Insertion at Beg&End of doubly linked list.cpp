@@ -1,4 +1,4 @@
-/*Traversing in doubly linked list*/
+/*Traversing in doubly linked list* by (Kaustub Dutt Pandey)/
 
 #include<iostream>
 using namespace std;
