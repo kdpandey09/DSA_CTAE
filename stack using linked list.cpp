@@ -1,3 +1,4 @@
+/*Implementation of stack by linked list (Kaustub Dutt Pandey)*/
 #include<iostream>
 using namespace std;
  
